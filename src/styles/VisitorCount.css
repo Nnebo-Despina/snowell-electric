@@ -1,0 +1,9 @@
+.visitor-container{
+    padding: 5px 15px;
+    background-color: var(--backgroundColor);
+    color: var(--primaryColor);
+    border-radius: 10px;
+}
+.visitor-container p{
+    font-weight: 500;
+}

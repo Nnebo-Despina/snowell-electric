@@ -1,0 +1,11 @@
+.ticker-cont{
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+    background-color: var(--primaryColor);
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    position: fixed;
+    z-index: 88888888;
+}

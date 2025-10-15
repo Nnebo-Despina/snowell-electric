@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+:root{
+    --primaryColor: #2C3E50;
+    --secondaryColor: #34495E;
+    --accentOne: #7F8C8D;
+    --accentTwo: #BDC3C7;
+    --backgroundColor: #ECF0F1;
+}
+button{
+    cursor: pointer;
+}
