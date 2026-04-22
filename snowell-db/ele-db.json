@@ -1,0 +1,1604 @@
+{
+  "snowell": [
+    {
+      "id": 1,
+      "name": "LED Amber Bulb",
+      "category": "bulb",
+      "url": "../src/assets/normal/bulb/4W B22 Laser-cut Filament LED G95 Round Amber 1800K Bulb.jpeg",
+      "price": 2000,
+      "description": "A vintage-inspired G95 amber LED delivering warm 1800K light with a laser-cut filament aesthetic. Consumes just 4W while providing long service life and consistent color rendering—ideal for ambient and decorative fixtures.",
+      "reviews": [
+        {
+          "name": "Olivia Martin",
+          "comment": "Beautiful warm glow and excellent build quality. The filament look is authentic and it instantly elevated my living room ambiance.",
+          "rating": 5,
+          "date": "2025-02-05"
+        },
+        {
+          "name": "Samuel Turner",
+          "comment": "Perfect for mood lighting—soft and non-glaring. I would have liked slightly higher lumens for reading tasks, but great for relaxation.",
+          "rating": 4,
+          "date": "2025-03-18"
+        },
+        {
+          "name": "Priya Shah",
+          "comment": "Stylish design and very energy efficient. Installation was straightforward and the color is consistently warm across fixtures.",
+          "rating": 5,
+          "date": "2025-05-09"
+        },
+        {
+          "name": "Marcus Bell",
+          "comment": "Reliable and attractive, though the price is a touch above standard bulbs. Still worth it for the aesthetic.",
+          "rating": 4,
+          "date": "2025-07-02"
+        },
+        {
+          "name": "Hannah Ortega",
+          "comment": "Gives a cozy, vintage feel to our café corner. Longevity looks promising—no flicker after several weeks of use.",
+          "rating": 5,
+          "date": "2025-09-21"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Dimmable 8w Light Bulb",
+      "category": "bulb",
+      "url": "../src/assets/normal/bulb/Dimmable Filament B22 GLS Light Bulb 8w LED 1100 Lumens.jpeg",
+      "price": 4000,
+      "description": "An 8W dimmable filament-style GLS LED offering up to 1100 lumens with smooth, flicker-free dimming. Designed for both residential and hospitality use, it balances brightness with a classic filament silhouette.",
+      "reviews": [
+        {
+          "name": "Celia Robertson",
+          "comment": "Excellent dimming range and no buzzing on my dimmer switch. Works well in our dining area for different lighting moods.",
+          "rating": 5,
+          "date": "2025-01-14"
+        },
+        {
+          "name": "Jordan Hayes",
+          "comment": "Very bright for its wattage and dims cleanly. Slightly warm tone which suits living spaces nicely.",
+          "rating": 4,
+          "date": "2025-03-03"
+        },
+        {
+          "name": "Leila Morgan",
+          "comment": "Good output and attractive filament design. One bulb arrived with a scuff but customer support sorted it quickly.",
+          "rating": 4,
+          "date": "2025-04-27"
+        },
+        {
+          "name": "Tariq Ahmed",
+          "comment": "Solid build and reliable dimming performance. Would recommend for pendant fixtures.",
+          "rating": 5,
+          "date": "2025-06-16"
+        },
+        {
+          "name": "Maya Santos",
+          "comment": "Bright and versatile, but note it leans slightly warm at low output. Still a great replacement for incandescent fixtures.",
+          "rating": 4,
+          "date": "2025-08-04"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "B22 GLS Light Bulb",
+      "category": "bulb",
+      "url": "../src/assets/normal/bulb/Download AI generated Glowing light bulb on png background for free.jpeg",
+      "price": 3700,
+      "description": "A classic GLS B22 bulb engineered for consistent light distribution and solid color fidelity. Suitable for general household lighting where dependable, neutral illumination is required.",
+      "reviews": [
+        {
+          "name": "Ibrahim Musa",
+          "comment": "Dependable and consistent output. Ideal for everyday fixtures where even light coverage matters.",
+          "rating": 5,
+          "date": "2025-01-29"
+        },
+        {
+          "name": "Renee Collins",
+          "comment": "Good value and stable color temperature. I used this in multiple ceiling fixtures with good results.",
+          "rating": 4,
+          "date": "2025-03-22"
+        },
+        {
+          "name": "Diego Alvarez",
+          "comment": "Solid replacement for standard bulbs; sturdy base and no early failures so far.",
+          "rating": 5,
+          "date": "2025-05-11"
+        },
+        {
+          "name": "Amina Yusuf",
+          "comment": "Performance is fine, though I expected a bit better CRI for task lighting. Works well for corridors and storage areas.",
+          "rating": 3,
+          "date": "2025-07-30"
+        },
+        {
+          "name": "Noah Wallace",
+          "comment": "Simple, effective lighting solution. No complaints for basic household use.",
+          "rating": 4,
+          "date": "2025-09-10"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "E26 4W LED Bulb",
+      "category": "bulb",
+      "url": "../src/assets/normal/bulb/E26 4W 12V LED Bombilla Edison de vidrio _ Accesorio de iluminación de paisaje - 10 Pack _ RGB + Warm White _ No Remote.jpeg",
+      "price": 5600,
+      "description": "A compact 4W E26 LED that pairs vintage Edison styling with modern efficiency. Ideal for accent fixtures and decorative lamps where low power draw and soft illumination are desired.",
+      "reviews": [
+        {
+          "name": "Grace Kim",
+          "comment": "Lovely Edison look with low energy use—perfect in exposed bulb fixtures. The glass finish is high quality.",
+          "rating": 5,
+          "date": "2025-02-12"
+        },
+        {
+          "name": "Oliver Price",
+          "comment": "Great for decorative fixtures but don’t expect high lumen output. Exactly what we wanted for mood lighting.",
+          "rating": 4,
+          "date": "2025-04-06"
+        },
+        {
+          "name": "Sofia Brown",
+          "comment": "Compact and reliable; the warm white tone complements wood finishes nicely.",
+          "rating": 5,
+          "date": "2025-06-21"
+        },
+        {
+          "name": "Ethan Green",
+          "comment": "Well-made bulb; one of ours lasted longer than expected during heavy use. Satisfied overall.",
+          "rating": 5,
+          "date": "2025-08-13"
+        },
+        {
+          "name": "Zara Khan",
+          "comment": "Stylish but not very bright—use for ambience rather than reading. Packaging could be improved.",
+          "rating": 3,
+          "date": "2025-10-02"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Green 60W Party Bulb",
+      "category": "bulb",
+      "url": "../src/assets/normal/bulb/Party Bulb - Incandescent - A19 - 60 W - Green.jpeg",
+      "price": 3000,
+      "description": "An A19-style green incandescent-effect bulb for decorative and event lighting. Provides vivid color saturation for parties, signage, and themed installations.",
+      "reviews": [
+        {
+          "name": "Benjamin Osei",
+          "comment": "Striking color and good saturation—great for themed events. Handled outdoor marquee use without issue.",
+          "rating": 5,
+          "date": "2025-01-08"
+        },
+        {
+          "name": "Heather Mills",
+          "comment": "Excellent hue for party lighting but noticeably warmer than studio LEDs. Still, great impact for short-term use.",
+          "rating": 4,
+          "date": "2025-03-14"
+        },
+        {
+          "name": "Carlos Mendes",
+          "comment": "Colors are vibrant and even. Ideal for decorative fixtures that need a pop of color.",
+          "rating": 5,
+          "date": "2025-05-02"
+        },
+        {
+          "name": "Lina Park",
+          "comment": "Good value for seasonal displays. Would prefer a longer-rated lifespan if used frequently.",
+          "rating": 3,
+          "date": "2025-07-19"
+        },
+        {
+          "name": "Felix Hart",
+          "comment": "Nice color intensity and no flicker. Perfect for one-off parties and decor.",
+          "rating": 4,
+          "date": "2025-09-28"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Red 60W Party Bulb",
+      "category": "bulb",
+      "url": "../src/assets/normal/bulb/Party Bulb - Incandescent - A19 - 60 W.jpeg",
+      "price": 3000,
+      "description": "A vivid red A19 bulb designed for event and decorative lighting with strong color saturation. Delivers a bold accent in fixtures, signage, and seasonal displays.",
+      "reviews": [
+        {
+          "name": "Natalie Wood",
+          "comment": "Vibrant and bold—perfect for accenting displays. The color coverage is excellent across different fixtures.",
+          "rating": 5,
+          "date": "2025-01-23"
+        },
+        {
+          "name": "Isaac Ford",
+          "comment": "Great for short-term use; becomes warm to touch after prolonged operation. Still performs well in parties and events.",
+          "rating": 4,
+          "date": "2025-03-30"
+        },
+        {
+          "name": "Camila Ruiz",
+          "comment": "Strong red tone and consistent output. I used several for an evening event and they looked great.",
+          "rating": 5,
+          "date": "2025-05-26"
+        },
+        {
+          "name": "Peter Novak",
+          "comment": "Good saturation but expect heat similar to incandescent bulbs. Works best under supervision for extended runs.",
+          "rating": 3,
+          "date": "2025-07-07"
+        },
+        {
+          "name": "Amara Okafor",
+          "comment": "Solid decorative bulb—no flicker and very eye-catching on stage lighting.",
+          "rating": 4,
+          "date": "2025-09-05"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "E28 6W LED Bulb",
+      "category": "bulb",
+      "url": "../src/assets/normal/bulb/Your Complete Guide To Energy-Efficient Light Bulbs.jpeg",
+      "price": 6000,
+      "description": "A robust E28 LED offering 6W efficiency with wide-beam light distribution, designed for medium-sized fixtures. Provides reliable, energy-saving illumination with stable color output.",
+      "reviews": [
+        {
+          "name": "Rafael Silva",
+          "comment": "Excellent beam spread and noticeably reduced energy consumption. Good fit for larger pendant fixtures.",
+          "rating": 5,
+          "date": "2025-02-02"
+        },
+        {
+          "name": "Saeed Al-Hassan",
+          "comment": "Very efficient and durable. The light remains consistent even after several months of use.",
+          "rating": 5,
+          "date": "2025-04-11"
+        },
+        {
+          "name": "Yvonne Lang",
+          "comment": "Good overall performance; I would like a slightly warmer option for living areas.",
+          "rating": 4,
+          "date": "2025-06-20"
+        },
+        {
+          "name": "Connor Blake",
+          "comment": "Sturdy base and long runtime. Slightly pricier than basic bulbs but well built.",
+          "rating": 4,
+          "date": "2025-08-01"
+        },
+        {
+          "name": "Marta Kowalski",
+          "comment": "Bright and reliable for hallway applications. No noticeable flicker on startup.",
+          "rating": 5,
+          "date": "2025-10-08"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "No-Surge 3-Outlet Extension",
+      "category": "extension",
+      "url": "../src/assets/normal/extension/4 Gang 5 Metre Surge Protected Extension Lead Cable Mains Power Plug Sockets.jpeg",
+      "price": 5000,
+      "description": "A compact 3-outlet extension lead with integrated no-surge protection and a durable 5-metre cable. Engineered for safety and convenience in home and office environments.",
+      "reviews": [
+        {
+          "name": "Eleanor Price",
+          "comment": "Reliable surge protection and a long cable that reaches all the way to my desk. The build feels solid.",
+          "rating": 5,
+          "date": "2025-01-05"
+        },
+        {
+          "name": "Malik Johnson",
+          "comment": "Good cord length and robust plug. The outlets sit snugly and the unit feels safe for daily use.",
+          "rating": 4,
+          "date": "2025-03-09"
+        },
+        {
+          "name": "Zoe Patterson",
+          "comment": "Useful for workshops and home offices. Would prefer an on/off switch on the unit itself.",
+          "rating": 3,
+          "date": "2025-05-15"
+        },
+        {
+          "name": "Dominic Reed",
+          "comment": "Performs well under load and the surge protection gives peace of mind. Cable insulation is high quality.",
+          "rating": 5,
+          "date": "2025-07-24"
+        },
+        {
+          "name": "Anika Bose",
+          "comment": "Good value and dependable performance. No issues after heavy use.",
+          "rating": 4,
+          "date": "2025-09-12"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Axiom 2-Outlet Extension",
+      "category": "extension",
+      "url": "../src/assets/normal/extension/Axiom Extension Socket 2 Gang in Black.jpeg",
+      "price": 6700,
+      "description": "A two-outlet extension socket with compact footprint and professional-grade construction. Ideal for minimalist workstations and bedside setups where space is limited.",
+      "reviews": [
+        {
+          "name": "Hugo Mendes",
+          "comment": "Sleek design and reliable outlets. Perfect for a tidy desk setup with minimal clutter.",
+          "rating": 5,
+          "date": "2025-02-18"
+        },
+        {
+          "name": "Paula Ribeiro",
+          "comment": "Good quality and compact. The black finish matches our furniture nicely.",
+          "rating": 4,
+          "date": "2025-04-09"
+        },
+        {
+          "name": "Kofi Mensah",
+          "comment": "Functional and sturdy, though it could use a longer cable for some applications.",
+          "rating": 3,
+          "date": "2025-06-05"
+        },
+        {
+          "name": "Lydia Grant",
+          "comment": "Excellent build and safe connectors. Would buy again for small office stations.",
+          "rating": 5,
+          "date": "2025-08-02"
+        },
+        {
+          "name": "Tomasz Zielinski",
+          "comment": "Works as expected and feels premium. No issues after a month of use.",
+          "rating": 4,
+          "date": "2025-10-01"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Metal 6-Outlet Extension",
+      "category": "extension",
+      "url": "../src/assets/normal/extension/1428d4b9-ab85-4fd3-82f1-686cc703ec41.jpeg",
+      "price": 10000,
+      "description": "Heavy-duty 6-outlet metal extension strip with high-current tolerance and reinforced housing. Designed for workshop, studio, and professional environments requiring reliable multi-socket distribution.",
+      "reviews": [
+        {
+          "name": "Oluwatobi Adeyemi",
+          "comment": "Built like a tank—perfect for my workshop. The metal housing gives confidence under heavy loads.",
+          "rating": 5,
+          "date": "2025-01-28"
+        },
+        {
+          "name": "Michaela Ford",
+          "comment": "Outstanding durability and multiple outlets make this a great studio essential. Slightly heavier than plastic models but worth it.",
+          "rating": 5,
+          "date": "2025-03-17"
+        },
+        {
+          "name": "Peter Schmidt",
+          "comment": "Very robust, but ensure you mount it securely if it’s going to be wall-mounted.",
+          "rating": 4,
+          "date": "2025-05-29"
+        },
+        {
+          "name": "Yara Haddad",
+          "comment": "High quality and dependable under continuous use. The price reflects the sturdy construction.",
+          "rating": 5,
+          "date": "2025-07-13"
+        },
+        {
+          "name": "Samuel Iverson",
+          "comment": "Excellent for high-demand setups; the outlets accept larger plugs without crowding.",
+          "rating": 5,
+          "date": "2025-09-03"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "4-Outlet White Extension",
+      "category": "extension",
+      "url": "../src/assets/normal/extension/Extension Socket 4 Gang White.jpeg",
+      "price": 5500,
+      "description": "A clean, white 4-outlet extension unit with integrated cable management options. Practical for kitchens, offices, and living rooms where style and function are both important.",
+      "reviews": [
+        {
+          "name": "Maya Griffin",
+          "comment": "Neat design and easy to hide behind furniture. Works well for our living room electronics.",
+          "rating": 5,
+          "date": "2025-02-07"
+        },
+        {
+          "name": "Liam Cooper",
+          "comment": "Good size and number of outlets; cable length is adequate for most setups.",
+          "rating": 4,
+          "date": "2025-04-22"
+        },
+        {
+          "name": "Zainab Ali",
+          "comment": "Solid product but the plastic could be thicker. Still, it performs well for daily use.",
+          "rating": 3,
+          "date": "2025-06-30"
+        },
+        {
+          "name": "Freya Wilson",
+          "comment": "Clean aesthetic and reliable performance—ideal for visible areas in the home.",
+          "rating": 5,
+          "date": "2025-08-18"
+        },
+        {
+          "name": "Noel Richards",
+          "comment": "Good ergonomics and easy to plug in multiple devices without overcrowding.",
+          "rating": 4,
+          "date": "2025-10-06"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "3-Outlet White Extension",
+      "category": "extension",
+      "url": "../src/assets/normal/extension/Globe Electric _ 6-Ft White Extension Power Cord With 3 Outlets And 2 USB Ports _ Rona.jpeg",
+      "price": 6000,
+      "description": "A 3-outlet extension with two integrated USB ports and a 6-foot cable for convenient charging. Blends USB charging with traditional outlets for modern device setups.",
+      "reviews": [
+        {
+          "name": "Adele Thompson",
+          "comment": "Very convenient to have USB ports integrated—reduced clutter and charges quickly.",
+          "rating": 5,
+          "date": "2025-01-12"
+        },
+        {
+          "name": "Harrison Lee",
+          "comment": "USB ports are fast and outlets are well spaced. Cable length is very practical.",
+          "rating": 4,
+          "date": "2025-03-28"
+        },
+        {
+          "name": "Nadia Petrova",
+          "comment": "Useful for bedside setups, though the USB output could be higher for fast-charging tablets.",
+          "rating": 3,
+          "date": "2025-05-20"
+        },
+        {
+          "name": "Kwame Agyeman",
+          "comment": "Robust performance and thoughtful layout. No overheating after extended use.",
+          "rating": 5,
+          "date": "2025-07-31"
+        },
+        {
+          "name": "Lena Martens",
+          "comment": "Clean finish and dependable charging for phones and accessories.",
+          "rating": 4,
+          "date": "2025-09-09"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "3-Outlet Strip Cord Extension",
+      "category": "extension",
+      "url": "../src/assets/normal/extension/US Plug AC Outlet Multiprise Power Strip Braided Extension Cord Smart Home Electrical Socket Network.jpeg",
+      "price": 6000,
+      "description": "A 3-outlet braided cord strip designed for durability and neat cable routing. Lightweight and flexible, it’s a practical choice for desktop and small appliance use.",
+      "reviews": [
+        {
+          "name": "Connor Mitchell",
+          "comment": "Braided cable feels durable and the strip sits flat on my desk. Great for office setups.",
+          "rating": 5,
+          "date": "2025-02-25"
+        },
+        {
+          "name": "Isabella Rossi",
+          "comment": "Stylish braided cord and compact form factor. Works reliably for my home office.",
+          "rating": 4,
+          "date": "2025-04-15"
+        },
+        {
+          "name": "Adeola Bamidele",
+          "comment": "Good quality, though the outlets may be too close for bulky plugs. Otherwise solid.",
+          "rating": 3,
+          "date": "2025-06-12"
+        },
+        {
+          "name": "Noor Sheikh",
+          "comment": "Dependable and well-made. No complaints after regular use for months.",
+          "rating": 5,
+          "date": "2025-08-09"
+        },
+        {
+          "name": "Owen Park",
+          "comment": "Compact and neat—perfect for limited spaces. Cable length could be a bit longer.",
+          "rating": 4,
+          "date": "2025-10-03"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "HolIce Standing Black Fan",
+      "category": "fan",
+      "url": "../src/assets/normal/fan/3D Fan - Sma Melendez.jpeg",
+      "price": 5100,
+      "description": "A standing black fan with adjustable heights and multiple speed settings for reliable airflow control. Engineered for quiet operation and robust performance in living spaces and offices.",
+      "reviews": [
+        {
+          "name": "Miriam Jacobs",
+          "comment": "Quiet and effective—delivers steady airflow without being obtrusive. Height adjustment is simple and sturdy.",
+          "rating": 5,
+          "date": "2025-01-19"
+        },
+        {
+          "name": "Ahmed Nasser",
+          "comment": "Good airflow at higher settings, and surprisingly quiet on low. Remote control would be a nice addition.",
+          "rating": 4,
+          "date": "2025-03-05"
+        },
+        {
+          "name": "Janelle Porter",
+          "comment": "Strong performance but tilt mechanism could be smoother. Overall a reliable fan for daily use.",
+          "rating": 4,
+          "date": "2025-05-06"
+        },
+        {
+          "name": "Victor Almeida",
+          "comment": "Robust build and steady air distribution. Useful for both bedroom and small living rooms.",
+          "rating": 5,
+          "date": "2025-07-22"
+        },
+        {
+          "name": "Sienna Clarke",
+          "comment": "Good value—solid airflow and minimal vibration. Assembly took under 15 minutes.",
+          "rating": 4,
+          "date": "2025-09-16"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Eleczo Wall Fan",
+      "category": "fan",
+      "url": "../src/assets/normal/fan/Buy Havells Domestic Wall Fans Online at Best Price _Eleczo_com.jpeg",
+      "price": 6000,
+      "description": "A wall-mounted fan built for efficient airflow and space-saving installation. Offers variable speeds and a compact profile suitable for kitchens, workshops, and small rooms.",
+      "reviews": [
+        {
+          "name": "Rita Fernandez",
+          "comment": "Great for small rooms—mounting was straightforward and the fan clears the space well.",
+          "rating": 5,
+          "date": "2025-01-02"
+        },
+        {
+          "name": "Daniel Park",
+          "comment": "Good airflow for its size, though the oscillation range is limited. Solid for targeted cooling.",
+          "rating": 4,
+          "date": "2025-03-21"
+        },
+        {
+          "name": "Aria Lewis",
+          "comment": "Very practical design and saves floor space. Could use a quieter motor on higher speeds.",
+          "rating": 3,
+          "date": "2025-05-24"
+        },
+        {
+          "name": "Khaled Mansour",
+          "comment": "Reliable and durable—works well in a kitchen setting where I needed consistent airflow.",
+          "rating": 5,
+          "date": "2025-07-11"
+        },
+        {
+          "name": "Bianca Romano",
+          "comment": "Sturdy mounting and good performance. Looks neat on the wall too.",
+          "rating": 4,
+          "date": "2025-09-01"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Eleczo Standing Black Fan",
+      "category": "fan",
+      "url": "../src/assets/normal/fan/7dbe3bc6-9eaa-46f8-aed1-b8aa70944e4a.jpeg",
+      "price": 4500,
+      "description": "A streamlined standing fan offering three-speed control and a sturdy base for stable operation. Designed to deliver reliable cooling with straightforward assembly and maintenance.",
+      "reviews": [
+        {
+          "name": "Gina Holloway",
+          "comment": "Easy setup and consistent performance. The fan is lightweight but surprisingly stable.",
+          "rating": 5,
+          "date": "2025-02-10"
+        },
+        {
+          "name": "Marcus Flynn",
+          "comment": "Good for personal cooling; not intended for large rooms but adequate for a bedroom.",
+          "rating": 4,
+          "date": "2025-04-03"
+        },
+        {
+          "name": "Yasmin Elbaz",
+          "comment": "Quiet operation on low speeds, though the highest setting gets a bit noisy. Still a dependable option.",
+          "rating": 4,
+          "date": "2025-06-18"
+        },
+        {
+          "name": "Ethan Moore",
+          "comment": "Affordable and well-built for the price. No wobble after weeks of use.",
+          "rating": 5,
+          "date": "2025-08-07"
+        },
+        {
+          "name": "Laila Rahman",
+          "comment": "Compact footprint and steady performance. Blades are easy to clean.",
+          "rating": 4,
+          "date": "2025-10-04"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Pink Standing Desk Fan",
+      "category": "fan",
+      "url": "../src/assets/normal/fan/f2748900-d986-4883-8148-bea756203026.jpeg",
+      "price": 5300,
+      "description": "A stylish pink desk fan offering portable, targeted airflow with a modern aesthetic. Ideal for desks, bedside tables, and compact living spaces requiring a personal cooling solution.",
+      "reviews": [
+        {
+          "name": "Nora Whitaker",
+          "comment": "Cute design and surprisingly powerful for its size. Perfect for a home office desk.",
+          "rating": 5,
+          "date": "2025-01-11"
+        },
+        {
+          "name": "Julien Petit",
+          "comment": "Compact and quiet—great for focused work. The pink finish is tasteful and not garish.",
+          "rating": 4,
+          "date": "2025-03-02"
+        },
+        {
+          "name": "Sofia Dimitrov",
+          "comment": "Good personal fan but could have a slightly stronger top speed. Otherwise well made.",
+          "rating": 3,
+          "date": "2025-05-08"
+        },
+        {
+          "name": "Kendra Lowe",
+          "comment": "Lightweight and portable; battery life on rechargeable models is reasonable.",
+          "rating": 4,
+          "date": "2025-07-28"
+        },
+        {
+          "name": "Ravi Kapoor",
+          "comment": "Nice finish and dependable motor—makes for a stylish desk accessory.",
+          "rating": 5,
+          "date": "2025-09-19"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Wooden 42'' Ceiling Fan",
+      "category": "fan",
+      "url": "../src/assets/normal/fan/Haydn Modern Wood DC Ceiling Fan with Light & 2 Color 42'' Black.jpeg",
+      "price": 7000,
+      "description": "A 42\" wooden-blade ceiling fan with DC motor technology for energy-efficient, quiet operation. Blends contemporary performance with a warm, natural finish suited to modern interiors.",
+      "reviews": [
+        {
+          "name": "Carmen Diaz",
+          "comment": "Beautiful finish and whisper-quiet operation thanks to the DC motor. Ideal for our living room.",
+          "rating": 5,
+          "date": "2025-01-25"
+        },
+        {
+          "name": "Theo Barnes",
+          "comment": "Stylish and efficient; installation was straightforward though it needs a solid mounting point.",
+          "rating": 4,
+          "date": "2025-03-27"
+        },
+        {
+          "name": "Imani Brooks",
+          "comment": "Excellent airflow and the wooden blades look premium. Remote included would be a plus.",
+          "rating": 5,
+          "date": "2025-06-02"
+        },
+        {
+          "name": "Luca Romano",
+          "comment": "Very smooth operation. The light kit was easy to configure for warm or cool tones.",
+          "rating": 5,
+          "date": "2025-08-20"
+        },
+        {
+          "name": "Adele Kretschmer",
+          "comment": "Solid fan with good performance; minor vibration when not mounted perfectly level.",
+          "rating": 4,
+          "date": "2025-10-05"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Wooden 43'' Ceiling Fan",
+      "category": "fan",
+      "url": "../src/assets/normal/fan/Ozawa 3-Blade Ceiling Fan with Light Wooden 2 Color 43'' White.jpeg",
+      "price": 7800,
+      "description": "A 43\" three-blade ceiling fan with a wooden finish and integrated light, designed for efficient circulation in medium to large rooms. Offers refined styling with robust motor performance.",
+      "reviews": [
+        {
+          "name": "Pilar Sanchez",
+          "comment": "Elegant wooden blades and good light output. The fan moves plenty of air without excess noise.",
+          "rating": 5,
+          "date": "2025-02-08"
+        },
+        {
+          "name": "Samuel Park",
+          "comment": "Great performance and very stable. The light diffuser is well designed.",
+          "rating": 5,
+          "date": "2025-04-20"
+        },
+        {
+          "name": "Beatrice Holden",
+          "comment": "High-quality finish and durable. Installation took some time but the result was worth it.",
+          "rating": 4,
+          "date": "2025-06-28"
+        },
+        {
+          "name": "Rashid Khan",
+          "comment": "Solid airflow for larger rooms; no wobble after balanced installation.",
+          "rating": 5,
+          "date": "2025-08-10"
+        },
+        {
+          "name": "Caroline DuBois",
+          "comment": "Stylish and functional, though the remote control range could be better.",
+          "rating": 4,
+          "date": "2025-10-07"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "10A 30mm Fuse",
+      "category": "fuse",
+      "url": "../src/assets/normal/fuse/10 Fusibles ronds en verre 7,5a D_6.jpeg",
+      "price": 1000,
+      "description": "A 10A, 30mm cylindrical glass fuse for circuit protection in small appliances and electronics. Manufactured to standard safety tolerances for reliable short-circuit protection.",
+      "reviews": [
+        {
+          "name": "Katerina Vasileiou",
+          "comment": "Exact specs and reliable performance—fitted perfectly in my equipment. No failures after several months.",
+          "rating": 5,
+          "date": "2025-01-09"
+        },
+        {
+          "name": "Derrick Owusu",
+          "comment": "Good quality and accurate rating. Use as a direct replacement without concerns.",
+          "rating": 5,
+          "date": "2025-03-12"
+        },
+        {
+          "name": "Fiona McDonald",
+          "comment": "Worked fine but packaging could be improved to avoid breakage during shipment.",
+          "rating": 3,
+          "date": "2025-05-23"
+        },
+        {
+          "name": "Hussein Farah",
+          "comment": "Dependable fuse—exactly what I needed for an old appliance repair.",
+          "rating": 5,
+          "date": "2025-07-15"
+        },
+        {
+          "name": "Yvonne Chen",
+          "comment": "Accurate tolerance and clear labeling. Good to have spares on hand.",
+          "rating": 4,
+          "date": "2025-09-27"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "1A 250V Glass Fuse",
+      "category": "fuse",
+      "url": "../src/assets/normal/fuse/10x 0218001_mxp Fuse_ Fusible 1a 250vac Cylindrical, Made Of Glass 218 Li.jpeg",
+      "price": 1600,
+      "description": "A 1A, 250V cylindrical glass fuse suitable for low-current circuit protection in consumer electronics. Clear marking and consistent tolerance make this a dependable replacement part.",
+      "reviews": [
+        {
+          "name": "Noemi Alvarez",
+          "comment": "Perfect fit and clear labeling. Worked well in vintage audio equipment as a safe replacement.",
+          "rating": 5,
+          "date": "2025-01-31"
+        },
+        {
+          "name": "Isaiah Grant",
+          "comment": "High-quality glass and predictable trip characteristics. Exactly as specified.",
+          "rating": 5,
+          "date": "2025-03-06"
+        },
+        {
+          "name": "Sofia Petrov",
+          "comment": "Good product but fragile—handle with care when fitting.",
+          "rating": 3,
+          "date": "2025-05-18"
+        },
+        {
+          "name": "Kwasi Boateng",
+          "comment": "Dependable for repairs and replacements. No issues noted.",
+          "rating": 4,
+          "date": "2025-07-26"
+        },
+        {
+          "name": "Elise Dubois",
+          "comment": "Well-manufactured and consistent. Glad I bought a pack.",
+          "rating": 5,
+          "date": "2025-09-02"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "5A 250V Cartidge Fuse",
+      "category": "fuse",
+      "url": "../src/assets/normal/fuse/Bussmann _ Cartridge Fuse _ Rona.jpeg",
+      "price": 1300,
+      "description": "A 5A, 250V Cartidge fuse engineered for use in sensitive electronics and control circuits. Manufactured to tight tolerances for stable operation and reliable protection.",
+      "reviews": [
+        {
+          "name": "Ethan Roberts",
+          "comment": "Consistent and reliable—used them to replace fuses in lab equipment with no issues.",
+          "rating": 5,
+          "date": "2025-02-14"
+        },
+        {
+          "name": "Miriam Goldstein",
+          "comment": "Exactly as described and arrived quickly. The glass cartidge is clear and well marked.",
+          "rating": 5,
+          "date": "2025-04-12"
+        },
+        {
+          "name": "Tobias Engel",
+          "comment": "Fragile during shipping but functional. Consider stronger packaging.",
+          "rating": 3,
+          "date": "2025-06-09"
+        },
+        {
+          "name": "Aisha Bello",
+          "comment": "Worked perfectly as replacements for microwave electronics. Good tolerance control.",
+          "rating": 5,
+          "date": "2025-08-24"
+        },
+        {
+          "name": "Lucas Pereira",
+          "comment": "Reliable rating and easy to identify among spares. Good purchase.",
+          "rating": 4,
+          "date": "2025-10-06"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "5A Electronic Glass Fuse",
+      "category": "fuse",
+      "url": "../src/assets/normal/fuse/Midwest Fastener 5A MDL Glass Electronic Fuse.jpeg",
+      "price": 1500,
+      "description": "A 5A glass fuse designed for medium-current protection in consumer electronics and small appliances. Clear construction aids quick identification and straightforward replacement.",
+      "reviews": [
+        {
+          "name": "Hanna Vogel",
+          "comment": "Good quality and accurate rating. Replaced several blown fuses in a power supply without trouble.",
+          "rating": 5,
+          "date": "2025-01-07"
+        },
+        {
+          "name": "Peter Williams",
+          "comment": "Works as intended. Small and simple to swap in equipment needing a 5A fuse.",
+          "rating": 4,
+          "date": "2025-03-01"
+        },
+        {
+          "name": "Sanjay Rao",
+          "comment": "Adequate performance but package had minimal protection. Fuse itself is fine.",
+          "rating": 3,
+          "date": "2025-05-27"
+        },
+        {
+          "name": "Lina Gomez",
+          "comment": "Reliable and correctly rated—good for repairs and test rigs.",
+          "rating": 5,
+          "date": "2025-07-29"
+        },
+        {
+          "name": "Raphael Mendes",
+          "comment": "Reasonably priced and consistent. No premature trips under standard conditions.",
+          "rating": 4,
+          "date": "2025-09-14"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "3 Pin Round Socket",
+      "category": "socket",
+      "url": "../src/assets/normal/socket/3 Pin Round Socket.jpeg",
+      "price": 2500,
+      "description": "A durable 3-pin round socket ideal for mains-powered appliances and installations. Engineered for safe contact and secure connections in domestic and light-commercial setups.",
+      "reviews": [
+        {
+          "name": "Priyanka Nair",
+          "comment": "Solid fit and good electrical contact. The round design is robust for frequent plug-ins.",
+          "rating": 5,
+          "date": "2025-02-21"
+        },
+        {
+          "name": "Marcus Chen",
+          "comment": "High-quality finish and tight tolerance on pins. Replaced old sockets with improved reliability.",
+          "rating": 5,
+          "date": "2025-04-02"
+        },
+        {
+          "name": "Olga Smirnova",
+          "comment": "Functional and safe, though the mounting screws could be a little more accessible.",
+          "rating": 3,
+          "date": "2025-06-14"
+        },
+        {
+          "name": "David Mensah",
+          "comment": "Good product and no loose connections after installation. Feels professionally made.",
+          "rating": 5,
+          "date": "2025-08-19"
+        },
+        {
+          "name": "Mei Lin",
+          "comment": "Reliable performance and neat design. Recommended for standard wiring tasks.",
+          "rating": 4,
+          "date": "2025-09-25"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "2-Outlet USB Port Socket",
+      "category": "socket",
+      "url": "../src/assets/normal/socket/Articles in the Home Category - SlipperyBrick_com.jpeg",
+      "price": 3700,
+      "description": "A wall socket combining two standard outlets with two USB ports for convenient device charging. Designed for modern living spaces where integrated charging reduces clutter.",
+      "reviews": [
+        {
+          "name": "Hannah Berg",
+          "comment": "Very handy—USB ports charge phones quickly while freeing up outlets. Clean installation and modern look.",
+          "rating": 5,
+          "date": "2025-01-15"
+        },
+        {
+          "name": "Rashida Khan",
+          "comment": "Great addition to our kitchen wall; USB ports are fast and reliable.",
+          "rating": 5,
+          "date": "2025-03-07"
+        },
+        {
+          "name": "Mateo Cruz",
+          "comment": "Convenient layout but would like a higher current USB port for tablets.",
+          "rating": 3,
+          "date": "2025-05-04"
+        },
+        {
+          "name": "Sofia Martins",
+          "comment": "Streamlined finish and sturdy construction. Very practical.",
+          "rating": 4,
+          "date": "2025-07-06"
+        },
+        {
+          "name": "Ibrahim Kone",
+          "comment": "Works well and reduced our need for adapters. Installation was straightforward.",
+          "rating": 4,
+          "date": "2025-09-08"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "2-in-1 Outlet Socket",
+      "category": "socket",
+      "url": "../src/assets/normal/socket/Axiom Switched Socket 2 Gang Double Pole.jpeg",
+      "price": 4200,
+      "description": "A 2-in-1 outlet socket featuring combined power and secondary socket functionality for flexible installations. Built for durability with a streamlined aesthetic suited to modern interiors.",
+      "reviews": [
+        {
+          "name": "Jacob Sanders",
+          "comment": "Solidly made and versatile for different outlet needs. The finish is clean and installs easily.",
+          "rating": 5,
+          "date": "2025-02-04"
+        },
+        {
+          "name": "Nora Bergstrom",
+          "comment": "Good quality materials and no loose fittings after installation. A reliable socket option.",
+          "rating": 4,
+          "date": "2025-04-14"
+        },
+        {
+          "name": "Emeka Nwankwo",
+          "comment": "Practical design but labeling could be clearer for wiring.",
+          "rating": 3,
+          "date": "2025-06-07"
+        },
+        {
+          "name": "Jia Li",
+          "comment": "Performs well under daily use; no discoloration or heating noticed.",
+          "rating": 5,
+          "date": "2025-08-05"
+        },
+        {
+          "name": "Marta Silva",
+          "comment": "Attractive finish and dependable function. Would recommend for home upgrades.",
+          "rating": 4,
+          "date": "2025-10-03"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "13A Polished Chrome Socket",
+      "category": "socket",
+      "url": "../src/assets/normal/socket/BG Screwless Flat Plate Polished Chrome 13A DP Switched Socket.jpeg",
+      "price": 4000,
+      "description": "A polished chrome 13A double-pole switched socket with a screwless flat plate for a premium finish. Designed to combine safety with a refined, contemporary appearance.",
+      "reviews": [
+        {
+          "name": "Adele Moreau",
+          "comment": "Beautiful chrome finish and a very neat screwless design. Adds a premium touch to our kitchen.",
+          "rating": 5,
+          "date": "2025-02-28"
+        },
+        {
+          "name": "Kenichi Sato",
+          "comment": "High-end look and secure connections. Slightly pricier than standard sockets but worth the finish.",
+          "rating": 5,
+          "date": "2025-04-28"
+        },
+        {
+          "name": "Chloe Martin",
+          "comment": "Looks great but fingerprints show on the chrome—requires occasional polishing.",
+          "rating": 4,
+          "date": "2025-06-24"
+        },
+        {
+          "name": "Ibrahim Diallo",
+          "comment": "Well made and durable. Switch action is smooth and responsive.",
+          "rating": 5,
+          "date": "2025-08-16"
+        },
+        {
+          "name": "Sanna Virtanen",
+          "comment": "Premium styling and solid construction, recommended for visible installations.",
+          "rating": 4,
+          "date": "2025-10-01"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "2-Outlet Universal Socket",
+      "category": "socket",
+      "url": "../src/assets/normal/socket/Depoguye Weiße USB-Stecker-Wandsteckdosen, universelle 10-Loch-Steckdose, Steckdosen und Schalter,.jpeg",
+      "price": 4500,
+      "description": "A universal 2-outlet socket accommodating multiple plug types, providing flexible compatibility for international appliances. Engineered for convenience in multi-use spaces and travel-ready environments.",
+      "reviews": [
+        {
+          "name": "Caroline Holt",
+          "comment": "Very useful in a guest room—accepts a range of plug types and maintains solid connection.",
+          "rating": 5,
+          "date": "2025-01-20"
+        },
+        {
+          "name": "Ruben Ortega",
+          "comment": "Excellent compatibility for travel adapters and chargers. Installation was straightforward.",
+          "rating": 4,
+          "date": "2025-03-10"
+        },
+        {
+          "name": "Nadia Karim",
+          "comment": "Works well but secure fit depends on the plug style; some very thick plugs sit tight.",
+          "rating": 3,
+          "date": "2025-05-21"
+        },
+        {
+          "name": "Tomislav Jovanovic",
+          "comment": "Sturdy construction and dependable electrical contact. Great for hospitality use.",
+          "rating": 5,
+          "date": "2025-07-04"
+        },
+        {
+          "name": "Zain Al-Tamimi",
+          "comment": "Useful and well manufactured—no surprises in performance.",
+          "rating": 4,
+          "date": "2025-09-20"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "1-Outlet Switch Socket",
+      "category": "socket",
+      "url": "../src/assets/normal/socket/MK DP Switched Socket.jpeg",
+      "price": 2000,
+      "description": "A single-outlet switched socket with a discreet, functional design for everyday installations. Built for safe, reliable switching and compact footprint in small areas.",
+      "reviews": [
+        {
+          "name": "Grace O'Connell",
+          "comment": "Compact and functional—great for small rooms and utility spaces. Switch action is positive and tactile.",
+          "rating": 5,
+          "date": "2025-02-16"
+        },
+        {
+          "name": "Lorenzo Ricci",
+          "comment": "Simple and effective; no frills but performs well as expected.",
+          "rating": 4,
+          "date": "2025-04-04"
+        },
+        {
+          "name": "Asha Mehta",
+          "comment": "Economical and practical. Nothing fancy but does the job reliably.",
+          "rating": 3,
+          "date": "2025-06-03"
+        },
+        {
+          "name": "Tom Brown",
+          "comment": "Good standard socket—solid feel and dependable switching.",
+          "rating": 5,
+          "date": "2025-08-26"
+        },
+        {
+          "name": "Mina Park",
+          "comment": "Great for utility cupboards and garages. Install was quick and secure.",
+          "rating": 4,
+          "date": "2025-10-05"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "2-Outlet 2-USB Socket",
+      "category": "socket",
+      "url": "../src/assets/normal/socket/Universal Double Wall Plug Socket 2 Gang 2 Usb Charger Port Outlets Plate 13a.jpeg",
+      "price": 3500,
+      "description": "A dual-outlet wall socket combined with two USB charging ports for simultaneous device power and charging. Designed for modern residences where convenience and tidy cable management are priorities.",
+      "reviews": [
+        {
+          "name": "Riley Thompson",
+          "comment": "Handy combination of outlets and USB ports—great for bedrooms and home offices.",
+          "rating": 5,
+          "date": "2025-01-18"
+        },
+        {
+          "name": "Sanae Fujimoto",
+          "comment": "USB ports work well and outlets accept larger adaptors without crowding.",
+          "rating": 4,
+          "date": "2025-03-26"
+        },
+        {
+          "name": "Damon Price",
+          "comment": "Nice finish and functional—but one USB port was slower than expected.",
+          "rating": 3,
+          "date": "2025-05-14"
+        },
+        {
+          "name": "Olivia Harper",
+          "comment": "Clean look and very practical. Installation instructions were clear.",
+          "rating": 5,
+          "date": "2025-07-09"
+        },
+        {
+          "name": "Ibrahim Suleiman",
+          "comment": "Good addition to our kitchen wall and charges phones reliably.",
+          "rating": 4,
+          "date": "2025-09-11"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Grey Bronze Plug Sockets",
+      "category": "socket",
+      "url": "../src/assets/normal/socket/Vogue Grey Bronze Plug Sockets (149B).jpeg",
+      "price": 3500,
+      "description": "Grey-bronze plug sockets offering a refined metallic finish for modern interiors. Combines a decorative finish with secure electrical performance for visible installations.",
+      "reviews": [
+        {
+          "name": "Leah Burke",
+          "comment": "Elegant finish and fits our aesthetic perfectly. Solid performance and sleek plate design.",
+          "rating": 5,
+          "date": "2025-02-06"
+        },
+        {
+          "name": "Andreas Vogel",
+          "comment": "Premium look and sturdy construction. Fingerprint-resistant finish would be a nice touch.",
+          "rating": 4,
+          "date": "2025-04-10"
+        },
+        {
+          "name": "Sefa Yildiz",
+          "comment": "Good appearance but slightly more expensive than basic options. Worth it for visible rooms.",
+          "rating": 4,
+          "date": "2025-06-25"
+        },
+        {
+          "name": "Rina Sato",
+          "comment": "Very attractive sockets and solid feel. No issues to report.",
+          "rating": 5,
+          "date": "2025-08-30"
+        },
+        {
+          "name": "Felix Baum",
+          "comment": "Works well and elevates the room styling. Recommended for finished interiors.",
+          "rating": 5,
+          "date": "2025-10-07"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Futuristic White Switch",
+      "category": "switch",
+      "url": "../src/assets/normal/switch/c9ade6e7-c053-4fc3-adf3-1abde440cb6f.jpeg",
+      "price": 3900,
+      "description": "A minimalist white switch with a modern profile and responsive tactile feedback. Ideal for contemporary interiors seeking a clean, understated control element.",
+      "reviews": [
+        {
+          "name": "Hannah O'Neill",
+          "comment": "Sleek and responsive—a tasteful upgrade to our hallway switches.",
+          "rating": 5,
+          "date": "2025-01-06"
+        },
+        {
+          "name": "Ibrahim Alami",
+          "comment": "Clean lines and smooth action. Looks very modern on the wall.",
+          "rating": 5,
+          "date": "2025-03-19"
+        },
+        {
+          "name": "Maria Soler",
+          "comment": "Nice tactile response but scratches easily if handled roughly. Overall good value.",
+          "rating": 3,
+          "date": "2025-05-30"
+        },
+        {
+          "name": "Jacob Stein",
+          "comment": "Works well and fits flush—installation was fuss-free.",
+          "rating": 4,
+          "date": "2025-07-20"
+        },
+        {
+          "name": "Evelyn Park",
+          "comment": "Attractive finish and reliable switch action. Recommend for modern renovations.",
+          "rating": 5,
+          "date": "2025-09-23"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Classic Golden Switch",
+      "category": "switch",
+      "url": "../src/assets/normal/switch/Classic Collection - The Wandsworth Group.jpeg",
+      "price": 3000,
+      "description": "A classic golden switch that adds a touch of traditional elegance to interiors. Built with dependable switching mechanics and a polished metallic finish for visible accent areas.",
+      "reviews": [
+        {
+          "name": "Rosa Mendes",
+          "comment": "Stylish and elegant—the golden finish adds character to our dining room.",
+          "rating": 5,
+          "date": "2025-02-01"
+        },
+        {
+          "name": "Daniel Weber",
+          "comment": "Solid action and attractive plating. Looks more expensive than it is.",
+          "rating": 5,
+          "date": "2025-04-08"
+        },
+        {
+          "name": "Aisha Zuberi",
+          "comment": "Beautiful aesthetic though the finish requires occasional polishing.",
+          "rating": 4,
+          "date": "2025-06-22"
+        },
+        {
+          "name": "Oliver Grant",
+          "comment": "Good quality and smooth operation. Perfect for feature walls.",
+          "rating": 5,
+          "date": "2025-08-14"
+        },
+        {
+          "name": "Sofie Lind",
+          "comment": "Classic look and solid performance. Worth it for prominent placements.",
+          "rating": 4,
+          "date": "2025-10-06"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "2-Way Classic White Switch",
+      "category": "switch",
+      "url": "../src/assets/normal/switch/Click Mode 10A Switch 2 Gang 2 Way.jpeg",
+      "price": 3200,
+      "description": "A 2-way white switch offering dependable dual-location control with crisp, tactile switching. Designed for consistent performance in domestic and light commercial applications.",
+      "reviews": [
+        {
+          "name": "Ethan Brooks",
+          "comment": "Reliable 2-way action and straightforward wiring. Works well in stairway configurations.",
+          "rating": 5,
+          "date": "2025-01-21"
+        },
+        {
+          "name": "Nina Pappas",
+          "comment": "Solid performance and tidy finish. Installation was simple for a DIYer.",
+          "rating": 4,
+          "date": "2025-03-11"
+        },
+        {
+          "name": "Omar Farouk",
+          "comment": "Functional and dependable but not particularly decorative.",
+          "rating": 3,
+          "date": "2025-05-19"
+        },
+        {
+          "name": "Sinead O'Connor",
+          "comment": "Good value for two-way switching. No faults observed after months of use.",
+          "rating": 5,
+          "date": "2025-07-07"
+        },
+        {
+          "name": "Marco Bellini",
+          "comment": "Works as expected and feels durable. Recommended for practical installs.",
+          "rating": 4,
+          "date": "2025-09-29"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Square 2-Way Gray Switch",
+      "category": "switch",
+      "url": "../src/assets/normal/switch/Gira E3.jpeg",
+      "price": 3800,
+      "description": "A square-profile gray 2-way switch designed for a clean, modern look and reliable dual-location control. Suited to contemporary interiors where minimalist controls are desired.",
+      "reviews": [
+        {
+          "name": "Helena Fischer",
+          "comment": "Modern styling and reliable action—an elegant upgrade for our hallway.",
+          "rating": 5,
+          "date": "2025-02-13"
+        },
+        {
+          "name": "Jonas Berg",
+          "comment": "Looks great and installs neatly. Function is smooth and dependable.",
+          "rating": 5,
+          "date": "2025-04-05"
+        },
+        {
+          "name": "Amina Sadiq",
+          "comment": "Good build but a touch pricier than standard white switches.",
+          "rating": 4,
+          "date": "2025-06-06"
+        },
+        {
+          "name": "Tobias Klein",
+          "comment": "No issues after extended use and the finish holds up well.",
+          "rating": 5,
+          "date": "2025-08-23"
+        },
+        {
+          "name": "Chiara Romano",
+          "comment": "A refined finish and consistent switching. Happy with the purchase.",
+          "rating": 4,
+          "date": "2025-10-02"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "2-Way 10A White Switch",
+      "category": "switch",
+      "url": "../src/assets/normal/switch/Lieber Silk White 2 Gang 2 Way 10A Light Switch - Curved Edge.jpeg",
+      "price": 3000,
+      "description": "A 2-gang, 10A white switch with a silk-texture finish and curved edges for a refined look. Provides dependable 2-way control and a tactile user experience.",
+      "reviews": [
+        {
+          "name": "Natalie Price",
+          "comment": "Nice ergonomic design and smooth switching. Looks elegant in living spaces.",
+          "rating": 5,
+          "date": "2025-01-27"
+        },
+        {
+          "name": "Omar Aziz",
+          "comment": "Good tactile feedback and easy to wire. The finish feels premium.",
+          "rating": 4,
+          "date": "2025-03-20"
+        },
+        {
+          "name": "Leanne Kim",
+          "comment": "Performs well but be careful during installation to keep the finish pristine.",
+          "rating": 4,
+          "date": "2025-05-10"
+        },
+        {
+          "name": "Rory MacLeod",
+          "comment": "Solid product—no issues after regular household use.",
+          "rating": 5,
+          "date": "2025-07-01"
+        },
+        {
+          "name": "Sofia Almeida",
+          "comment": "Stylish and dependable. Great for visible rooms where finish matters.",
+          "rating": 4,
+          "date": "2025-09-18"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "2-Way 10A Metallic Switch",
+      "category": "switch",
+      "url": "../src/assets/normal/switch/LS02 Screw Plate 2 Gang Light Switch.jpeg",
+      "price": 3400,
+      "description": "A metallic-finished 2-way switch with 10A rating, offering a contemporary metallic aesthetic and robust switching action. Ideal where a modern metallic accent is desired.",
+      "reviews": [
+        {
+          "name": "Connor Riley",
+          "comment": "Great metallic finish and dependable switch action—adds a modern touch.",
+          "rating": 5,
+          "date": "2025-02-09"
+        },
+        {
+          "name": "Aisha Thomson",
+          "comment": "Looks very contemporary and the finish holds up well to use.",
+          "rating": 4,
+          "date": "2025-04-30"
+        },
+        {
+          "name": "Milan Popov",
+          "comment": "Good build quality though fingerprints show on the metallic surface.",
+          "rating": 3,
+          "date": "2025-06-17"
+        },
+        {
+          "name": "Rhea Kapoor",
+          "comment": "Solid and responsive—installation was straightforward.",
+          "rating": 5,
+          "date": "2025-08-12"
+        },
+        {
+          "name": "Jamal Roberts",
+          "comment": "Good value for a stylish switch—no complaints.",
+          "rating": 4,
+          "date": "2025-10-04"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Square Classic Gray Switch",
+      "category": "switch",
+      "url": "../src/assets/normal/switch/Mat zwart schakelaarsprogramma van Gira - wand-plafond - verbouwen - WONEN_nl.jpeg",
+      "price": 3300,
+      "description": "A square-profile classic gray switch offering understated styling and consistent switching performance. Suited for modern interiors that prefer a neutral, durable control surface.",
+      "reviews": [
+        {
+          "name": "Levi Armstrong",
+          "comment": "Unobtrusive and dependable. A good choice for consistent everyday switching.",
+          "rating": 5,
+          "date": "2025-02-23"
+        },
+        {
+          "name": "Amelia Joyce",
+          "comment": "Reliable and nicely finished. Works well throughout the house.",
+          "rating": 4,
+          "date": "2025-04-26"
+        },
+        {
+          "name": "Femi Adeyemi",
+          "comment": "Very practical—no fancy features, just solid switching.",
+          "rating": 3,
+          "date": "2025-06-11"
+        },
+        {
+          "name": "Jodie Clarke",
+          "comment": "Good looking and solid. Recommended for functional rooms.",
+          "rating": 5,
+          "date": "2025-08-28"
+        },
+        {
+          "name": "Mateusz Wozniak",
+          "comment": "Durable finish and easy action. Perfect for everyday use.",
+          "rating": 4,
+          "date": "2025-10-02"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "3-Way + Dimmer Black Switch",
+      "category": "switch",
+      "url": "../src/assets/normal/switch/Soho Lighting Matt Black 4 Gang Dimmer and Rocker Switch Combo (1 x 2 -Way Intelligent Dimmer & 3 x 2-Way Switch).jpeg",
+      "price": 6500,
+      "description": "A 3-way dimmer and switch combo in matt black finish providing precise lighting control and a premium aesthetic. Engineered for smooth dimming response and flexible multi-location control.",
+      "reviews": [
+        {
+          "name": "Naomi Adler",
+          "comment": "Excellent dimming curve and a premium matte finish. Makes living room lighting adjustments effortless.",
+          "rating": 5,
+          "date": "2025-01-10"
+        },
+        {
+          "name": "Kojo Mensah",
+          "comment": "Smooth dimming and easy set-up with multi-way wiring. Very satisfied with performance.",
+          "rating": 5,
+          "date": "2025-03-16"
+        },
+        {
+          "name": "Hana Park",
+          "comment": "Great design but requires a compatible dimmer switch—check specs before purchase.",
+          "rating": 3,
+          "date": "2025-05-31"
+        },
+        {
+          "name": "Lucas Fernandes",
+          "comment": "Premium feel and accurate dimming. Very useful for ambience control.",
+          "rating": 5,
+          "date": "2025-07-18"
+        },
+        {
+          "name": "Zoe Clarke",
+          "comment": "Stylish and functional. Worth the investment for main living areas.",
+          "rating": 4,
+          "date": "2025-09-06"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "2-Way + Dimmer Gold Switch",
+      "category": "switch",
+      "url": "../src/assets/normal/switch/Switch Parts.jpeg",
+      "price": 6500,
+      "description": "A gold-finish 2-way switch with integrated dimmer control, combining decorative metalwork with precise lighting adjustment. Ideal for feature rooms where control and visual appeal matter equally.",
+      "reviews": [
+        {
+          "name": "Monique Laurent",
+          "comment": "Luxurious finish and smooth dimming—adds a real designer touch to the room.",
+          "rating": 5,
+          "date": "2025-01-04"
+        },
+        {
+          "name": "Daniel Kim",
+          "comment": "Excellent quality and intuitive dimmer action. The gold finish elevates our décor.",
+          "rating": 5,
+          "date": "2025-03-25"
+        },
+        {
+          "name": "Ava Ribeiro",
+          "comment": "Beautiful switch but the gold finish picks up fingerprints—worth the extra care.",
+          "rating": 4,
+          "date": "2025-06-01"
+        },
+        {
+          "name": "Owen Matthews",
+          "comment": "Solid dimming performance and refined styling. Great for dining and lounge areas.",
+          "rating": 5,
+          "date": "2025-08-21"
+        },
+        {
+          "name": "Lina Hoffman",
+          "comment": "High-end appearance and reliable operation. A strong finishing touch for renovated interiors.",
+          "rating": 4,
+          "date": "2025-10-05"
+        }
+      ]
+    }
+  ]
+}

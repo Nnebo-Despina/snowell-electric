@@ -1,0 +1,249 @@
+.contact-wrapper {
+  background-color: var(--backgroundColor);
+  padding-top: 13vh;
+  font-family: "Poppins", sans-serif;
+  color: var(--primaryColor);
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  overflow-x: hidden;
+}
+
+.contact-title {
+  font-size: clamp(60px, 20vw, 150px);
+  font-weight: 700;
+  color: var(--primaryColor);
+  opacity: 0.15;
+  position: absolute;
+  top: 8%;
+  left: 50%;
+  transform: translateX(-50%);
+  white-space: nowrap;
+  text-align: center;
+  z-index: 1;
+}
+
+.contact-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 90%;
+  margin: auto;
+  gap: 40px;
+  position: relative;
+  z-index: 2;
+  flex-wrap: wrap;
+}
+
+.contact-left,
+.contact-right {
+  flex: 1;
+  min-width: 300px;
+}
+
+.contact-left {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-left h3 {
+  font-size: clamp(22px, 3vw, 30px);
+}
+
+.contact-left p {
+  color: var(--secondaryColor);
+  font-size: clamp(14px, 2vw, 16px);
+}
+
+.icon-div-contact {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  color: var(--primaryColor);
+  margin-top: 10px;
+  flex-wrap: wrap;
+}
+
+.icon-div-mail {
+  padding: 10px 20px;
+  background-color: var(--primaryColor);
+  border: none;
+  border-radius: 20px;
+  color: white;
+  transition: 0.3s;
+  cursor: pointer;
+}
+.icon-div-mail:hover {
+  background-color: var(--secondaryColor);
+}
+
+.line-contact-s1 {
+  width: 1px;
+  background-color: var(--accentOne);
+  align-self: stretch;
+}
+
+.contact-right { 
+  flex: 1.5; min-width: 300px; 
+} 
+.contact-form input, .contact-form textarea {
+   width: 100%;
+    padding: 12px; 
+    margin-bottom: 15px; 
+    border: none; 
+    border-bottom: 1px solid var(--accentOne); 
+    background: transparent; 
+    outline: none; 
+    font-size: 15px; 
+    color: var(--primaryColor); 
+    resize: none; 
+  } 
+.contact-form input:focus, .contact-form textarea:focus {
+   border-bottom: 1px solid var(--primaryColor); 
+} 
+.form-row { 
+  display: flex; 
+  position: relative; 
+  gap: 20px; 
+  z-index: 20; 
+} 
+.send-btn { 
+  background: var(--primaryColor); 
+  color: #fff; 
+  border: none; 
+  padding: 10px 25px; 
+  border-radius: 25px; 
+  cursor: pointer; 
+  font-size: 16px; 
+  transition: 0.3s;
+} 
+.send-btn:hover{ 
+  background: var(--secondaryColor); 
+}
+
+
+.faq-contact-us {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 5vh 5%;
+  background-color: var(--backgroundColor);
+  color: var(--primaryColor);
+  gap: 40px;
+}
+
+.faq-name-contact {
+  flex: 1;
+  min-width: 250px;
+  position: relative;
+}
+
+.faq-name-contact h4 {
+  font-size: clamp(50px, 15vw, 100px);
+  font-weight: 700;
+  color: var(--secondaryColor);
+  opacity: 0.2;
+  position: absolute;
+  top: -20px;
+  left: 0;
+}
+
+.faq-contact-us h1 {
+  font-size: clamp(28px, 5vw, 50px);
+  margin-top: 40px;
+  margin-left: 30px;
+}
+
+.faq-questions {
+  flex: 1.5;
+  min-width: 300px;
+}
+
+.faq-questions h3 {
+  font-size: clamp(20px, 3vw, 30px);
+}
+
+.faq-questions p {
+  font-size: clamp(14px, 2vw, 16px);
+  line-height: 1.6;
+}
+
+.questions-contact {
+  font-weight: 500;
+}
+
+.questions-contact div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.questions-contact div:hover {
+  color: var(--secondaryColor);
+  transform: translateX(5px);
+}
+
+@media (max-width: 1024px) {
+  .contact-wrapper {
+    padding-top: 18vh;
+  }
+
+  .contact-container {
+    flex-direction: column;
+    gap: 50px;
+    align-items: stretch;
+  }
+
+  .line-contact-s1 {
+    display: none;
+  }
+
+  .faq-contact-us {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .faq-name-contact h4 {
+    position: static;
+    opacity: 0.1;
+  }
+
+  .faq-contact-us h1 {
+    margin-top: 40px;
+  }
+}
+
+@media (max-width: 600px) {
+  .contact-wrapper {
+    padding-top: 10vh;
+  }
+
+  .contact-title {
+    font-size: 40px;
+    opacity: 0.1;
+    top: 12%;
+  }
+
+  .icon-div-mail {
+    width: 100%;
+    text-align: center;
+  }
+
+  .faq-contact-us {
+    padding: 0vh 5%;
+  }
+
+  .faq-name-contact h4 {
+    font-size: 50px;
+  }
+
+  .send-btn {
+    width: 100%;
+    text-align: center;
+  }
+}
