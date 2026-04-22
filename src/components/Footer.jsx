@@ -1,6 +1,6 @@
 import React from 'react'
 import '../styles/Footer.css'
-import Logo from '/svg/Logo.svg'
+import Logo from '/svg/logo.svg'
 import { Link } from 'react-router-dom'
 
 
