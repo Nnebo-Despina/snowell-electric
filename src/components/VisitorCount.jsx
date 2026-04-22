@@ -36,7 +36,7 @@ const VisitorCount = () => {
         sessionStorage.removeItem("hasIncremented");
         window.location.reload();
     }}>
-      <p>1</p>
+      <p>{visits}</p>
     </div>
   );
 };

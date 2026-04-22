@@ -27,10 +27,7 @@ function App() {
         <Route path="shop-location" element={<ShopLocation />}/>
         <Route path="contact" element={<Contact />}/>
       </Route>
-    ),
-    {
-      basename: "/snowell-electric", // 👈 This fixes the blank page
-    }
+    )
   );
 
   return <RouterProvider router={router} />;
