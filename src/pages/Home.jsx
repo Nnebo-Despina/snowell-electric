@@ -1,15 +1,15 @@
 import React, { useEffect, useState } from 'react'
 import NavBar from '../components/NavBar'
 import '../styles/Home.css'
-import ImageOne from "../assets/normal/6W B22 Filament LED A60 Round 2200K Opal Bulb Dimmable.jpeg";
-import ImageTwo from "../assets/normal/Intelligence - Mia Cucina.jpeg";
-import ImageThree from "../assets/normal/e3bc5e46-9ae8-4206-883a-8a5b6f88aa5b.jpeg";
-import ImageFour from "../assets/normal/Grey UK 13A .jpeg";
+import ImageOne from "/normal/6W B22 Filament LED A60 Round 2200K Opal Bulb Dimmable.jpeg";
+import ImageTwo from "/normal/Intelligence - Mia Cucina.jpeg";
+import ImageThree from "/normal/e3bc5e46-9ae8-4206-883a-8a5b6f88aa5b.jpeg";
+import ImageFour from "/normal/Grey UK 13A .jpeg";
 import { BsArrowLeft, BsArrowRight } from 'react-icons/bs';
 import { IoStar } from 'react-icons/io5';
 import { RiStarFill } from 'react-icons/ri';
 import Footer from '../components/Footer'
-import snowell from "/snowell-db/ele-db.json";
+import snowell from "../../public/snowell-db/ele-db.json";
 import { Link } from 'react-router-dom';
 
 

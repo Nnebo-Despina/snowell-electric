@@ -1,13 +1,12 @@
 import React, { useState } from 'react'
 import NavBar from '../components/NavBar'
 import '../styles/ProductDetails.css'
-import ImagePro from "../assets/normal/bulb/4W B22 Laser-cut Filament LED G95 Round Amber 1800K Bulb.jpeg";
 import { BiHeart, BiMinus, BiPlus } from 'react-icons/bi';
 import { PiMicrosoftWordLogo } from 'react-icons/pi';
 import { RiStarFill } from 'react-icons/ri';
-import Pfp from "../assets/normal/Deafult PFP _ @davy3k.jpeg";
+import Pfp from "/normal/Deafult PFP _ @davy3k.jpeg";
 import { useNavigate, useParams } from 'react-router-dom';
-import snowell from "/snowell-db/ele-db.json";
+import snowell from "../../public/snowell-db/ele-db.json";
 import { BsArrowLeft, BsCurrencyExchange } from 'react-icons/bs';
 
 const ProductDetails = () => {

@@ -4,7 +4,7 @@
       "id": 1,
       "name": "LED Amber Bulb",
       "category": "bulb",
-      "url": "../src/assets/normal/bulb/4W B22 Laser-cut Filament LED G95 Round Amber 1800K Bulb.jpeg",
+      "url": "/normal/bulb/4W B22 Laser-cut Filament LED G95 Round Amber 1800K Bulb.jpeg",
       "price": 2000,
       "description": "A vintage-inspired G95 amber LED delivering warm 1800K light with a laser-cut filament aesthetic. Consumes just 4W while providing long service life and consistent color rendering—ideal for ambient and decorative fixtures.",
       "reviews": [
@@ -44,7 +44,7 @@
       "id": 2,
       "name": "Dimmable 8w Light Bulb",
       "category": "bulb",
-      "url": "../src/assets/normal/bulb/Dimmable Filament B22 GLS Light Bulb 8w LED 1100 Lumens.jpeg",
+      "url": "/normal/bulb/Dimmable Filament B22 GLS Light Bulb 8w LED 1100 Lumens.jpeg",
       "price": 4000,
       "description": "An 8W dimmable filament-style GLS LED offering up to 1100 lumens with smooth, flicker-free dimming. Designed for both residential and hospitality use, it balances brightness with a classic filament silhouette.",
       "reviews": [
@@ -84,7 +84,7 @@
       "id": 3,
       "name": "B22 GLS Light Bulb",
       "category": "bulb",
-      "url": "../src/assets/normal/bulb/Download AI generated Glowing light bulb on png background for free.jpeg",
+      "url": "/normal/bulb/Download AI generated Glowing light bulb on png background for free.jpeg",
       "price": 3700,
       "description": "A classic GLS B22 bulb engineered for consistent light distribution and solid color fidelity. Suitable for general household lighting where dependable, neutral illumination is required.",
       "reviews": [
@@ -124,7 +124,7 @@
       "id": 4,
       "name": "E26 4W LED Bulb",
       "category": "bulb",
-      "url": "../src/assets/normal/bulb/E26 4W 12V LED Bombilla Edison de vidrio _ Accesorio de iluminación de paisaje - 10 Pack _ RGB + Warm White _ No Remote.jpeg",
+      "url": "/normal/bulb/E26 4W 12V.jpeg",
       "price": 5600,
       "description": "A compact 4W E26 LED that pairs vintage Edison styling with modern efficiency. Ideal for accent fixtures and decorative lamps where low power draw and soft illumination are desired.",
       "reviews": [
@@ -164,7 +164,7 @@
       "id": 5,
       "name": "Green 60W Party Bulb",
       "category": "bulb",
-      "url": "../src/assets/normal/bulb/Party Bulb - Incandescent - A19 - 60 W - Green.jpeg",
+      "url": "/normal/bulb/Party Bulb - Incandescent - A19 - 60 W - Green.jpeg",
       "price": 3000,
       "description": "An A19-style green incandescent-effect bulb for decorative and event lighting. Provides vivid color saturation for parties, signage, and themed installations.",
       "reviews": [
@@ -204,7 +204,7 @@
       "id": 6,
       "name": "Red 60W Party Bulb",
       "category": "bulb",
-      "url": "../src/assets/normal/bulb/Party Bulb - Incandescent - A19 - 60 W.jpeg",
+      "url": "/normal/bulb/Party Bulb - Incandescent - A19 - 60 W.jpeg",
       "price": 3000,
       "description": "A vivid red A19 bulb designed for event and decorative lighting with strong color saturation. Delivers a bold accent in fixtures, signage, and seasonal displays.",
       "reviews": [
@@ -244,7 +244,7 @@
       "id": 7,
       "name": "E28 6W LED Bulb",
       "category": "bulb",
-      "url": "../src/assets/normal/bulb/Your Complete Guide To Energy-Efficient Light Bulbs.jpeg",
+      "url": "/normal/bulb/Your Complete Guide To Energy-Efficient Light Bulbs.jpeg",
       "price": 6000,
       "description": "A robust E28 LED offering 6W efficiency with wide-beam light distribution, designed for medium-sized fixtures. Provides reliable, energy-saving illumination with stable color output.",
       "reviews": [
@@ -284,7 +284,7 @@
       "id": 8,
       "name": "No-Surge 3-Outlet Extension",
       "category": "extension",
-      "url": "../src/assets/normal/extension/4 Gang 5 Metre Surge Protected Extension Lead Cable Mains Power Plug Sockets.jpeg",
+      "url": "/normal/extension/4 Gang 5 Metre Surge Protected Extension Lead Cable Mains Power Plug Sockets.jpeg",
       "price": 5000,
       "description": "A compact 3-outlet extension lead with integrated no-surge protection and a durable 5-metre cable. Engineered for safety and convenience in home and office environments.",
       "reviews": [
@@ -324,7 +324,7 @@
       "id": 9,
       "name": "Axiom 2-Outlet Extension",
       "category": "extension",
-      "url": "../src/assets/normal/extension/Axiom Extension Socket 2 Gang in Black.jpeg",
+      "url": "/normal/extension/Axiom Extension Socket 2 Gang in Black.jpeg",
       "price": 6700,
       "description": "A two-outlet extension socket with compact footprint and professional-grade construction. Ideal for minimalist workstations and bedside setups where space is limited.",
       "reviews": [
@@ -364,7 +364,7 @@
       "id": 10,
       "name": "Metal 6-Outlet Extension",
       "category": "extension",
-      "url": "../src/assets/normal/extension/1428d4b9-ab85-4fd3-82f1-686cc703ec41.jpeg",
+      "url": "/normal/extension/1428d4b9-ab85-4fd3-82f1-686cc703ec41.jpeg",
       "price": 10000,
       "description": "Heavy-duty 6-outlet metal extension strip with high-current tolerance and reinforced housing. Designed for workshop, studio, and professional environments requiring reliable multi-socket distribution.",
       "reviews": [
@@ -404,7 +404,7 @@
       "id": 11,
       "name": "4-Outlet White Extension",
       "category": "extension",
-      "url": "../src/assets/normal/extension/Extension Socket 4 Gang White.jpeg",
+      "url": "/normal/extension/Extension Socket 4 Gang White.jpeg",
       "price": 5500,
       "description": "A clean, white 4-outlet extension unit with integrated cable management options. Practical for kitchens, offices, and living rooms where style and function are both important.",
       "reviews": [
@@ -444,7 +444,7 @@
       "id": 12,
       "name": "3-Outlet White Extension",
       "category": "extension",
-      "url": "../src/assets/normal/extension/Globe Electric _ 6-Ft White Extension Power Cord With 3 Outlets And 2 USB Ports _ Rona.jpeg",
+      "url": "/normal/extension/Globe Electric _ 6-Ft White Extension Power Cord With 3 Outlets And 2 USB Ports _ Rona.jpeg",
       "price": 6000,
       "description": "A 3-outlet extension with two integrated USB ports and a 6-foot cable for convenient charging. Blends USB charging with traditional outlets for modern device setups.",
       "reviews": [
@@ -484,7 +484,7 @@
       "id": 13,
       "name": "3-Outlet Strip Cord Extension",
       "category": "extension",
-      "url": "../src/assets/normal/extension/US Plug AC Outlet Multiprise Power Strip Braided Extension Cord Smart Home Electrical Socket Network.jpeg",
+      "url": "/normal/extension/US Plug AC Outlet Multiprise Power Strip Braided Extension Cord Smart Home Electrical Socket Network.jpeg",
       "price": 6000,
       "description": "A 3-outlet braided cord strip designed for durability and neat cable routing. Lightweight and flexible, it’s a practical choice for desktop and small appliance use.",
       "reviews": [
@@ -524,7 +524,7 @@
       "id": 14,
       "name": "HolIce Standing Black Fan",
       "category": "fan",
-      "url": "../src/assets/normal/fan/3D Fan - Sma Melendez.jpeg",
+      "url": "/normal/fan/3D Fan - Sma Melendez.jpeg",
       "price": 5100,
       "description": "A standing black fan with adjustable heights and multiple speed settings for reliable airflow control. Engineered for quiet operation and robust performance in living spaces and offices.",
       "reviews": [
@@ -564,7 +564,7 @@
       "id": 15,
       "name": "Eleczo Wall Fan",
       "category": "fan",
-      "url": "../src/assets/normal/fan/Buy Havells Domestic Wall Fans Online at Best Price _Eleczo_com.jpeg",
+      "url": "/normal/fan/Buy Havells Domestic Wall Fans Online at Best Price _Eleczo_com.jpeg",
       "price": 6000,
       "description": "A wall-mounted fan built for efficient airflow and space-saving installation. Offers variable speeds and a compact profile suitable for kitchens, workshops, and small rooms.",
       "reviews": [
@@ -604,7 +604,7 @@
       "id": 16,
       "name": "Eleczo Standing Black Fan",
       "category": "fan",
-      "url": "../src/assets/normal/fan/7dbe3bc6-9eaa-46f8-aed1-b8aa70944e4a.jpeg",
+      "url": "/normal/fan/7dbe3bc6-9eaa-46f8-aed1-b8aa70944e4a.jpeg",
       "price": 4500,
       "description": "A streamlined standing fan offering three-speed control and a sturdy base for stable operation. Designed to deliver reliable cooling with straightforward assembly and maintenance.",
       "reviews": [
@@ -644,7 +644,7 @@
       "id": 17,
       "name": "Pink Standing Desk Fan",
       "category": "fan",
-      "url": "../src/assets/normal/fan/f2748900-d986-4883-8148-bea756203026.jpeg",
+      "url": "/normal/fan/f2748900-d986-4883-8148-bea756203026.jpeg",
       "price": 5300,
       "description": "A stylish pink desk fan offering portable, targeted airflow with a modern aesthetic. Ideal for desks, bedside tables, and compact living spaces requiring a personal cooling solution.",
       "reviews": [
@@ -684,7 +684,7 @@
       "id": 18,
       "name": "Wooden 42'' Ceiling Fan",
       "category": "fan",
-      "url": "../src/assets/normal/fan/Haydn Modern Wood DC Ceiling Fan with Light & 2 Color 42'' Black.jpeg",
+      "url": "/normal/fan/Haydn Modern Wood DC Ceiling Fan with Light & 2 Color 42'' Black.jpeg",
       "price": 7000,
       "description": "A 42\" wooden-blade ceiling fan with DC motor technology for energy-efficient, quiet operation. Blends contemporary performance with a warm, natural finish suited to modern interiors.",
       "reviews": [
@@ -724,7 +724,7 @@
       "id": 19,
       "name": "Wooden 43'' Ceiling Fan",
       "category": "fan",
-      "url": "../src/assets/normal/fan/Ozawa 3-Blade Ceiling Fan with Light Wooden 2 Color 43'' White.jpeg",
+      "url": "/normal/fan/Ozawa 3-Blade Ceiling Fan with Light Wooden 2 Color 43'' White.jpeg",
       "price": 7800,
       "description": "A 43\" three-blade ceiling fan with a wooden finish and integrated light, designed for efficient circulation in medium to large rooms. Offers refined styling with robust motor performance.",
       "reviews": [
@@ -764,7 +764,7 @@
       "id": 20,
       "name": "10A 30mm Fuse",
       "category": "fuse",
-      "url": "../src/assets/normal/fuse/10 Fusibles ronds en verre 7,5a D_6.jpeg",
+      "url": "/normal/fuse/10 Fusibles ronds en verre 7,5a D_6.jpeg",
       "price": 1000,
       "description": "A 10A, 30mm cylindrical glass fuse for circuit protection in small appliances and electronics. Manufactured to standard safety tolerances for reliable short-circuit protection.",
       "reviews": [
@@ -804,7 +804,7 @@
       "id": 21,
       "name": "1A 250V Glass Fuse",
       "category": "fuse",
-      "url": "../src/assets/normal/fuse/10x 0218001_mxp Fuse_ Fusible 1a 250vac Cylindrical, Made Of Glass 218 Li.jpeg",
+      "url": "/normal/fuse/10x 0218001_mxp Fuse_ Fusible 1a 250vac Cylindrical, Made Of Glass 218 Li.jpeg",
       "price": 1600,
       "description": "A 1A, 250V cylindrical glass fuse suitable for low-current circuit protection in consumer electronics. Clear marking and consistent tolerance make this a dependable replacement part.",
       "reviews": [
@@ -844,7 +844,7 @@
       "id": 22,
       "name": "5A 250V Cartidge Fuse",
       "category": "fuse",
-      "url": "../src/assets/normal/fuse/Bussmann _ Cartridge Fuse _ Rona.jpeg",
+      "url": "/normal/fuse/Bussmann _ Cartridge Fuse _ Rona.jpeg",
       "price": 1300,
       "description": "A 5A, 250V Cartidge fuse engineered for use in sensitive electronics and control circuits. Manufactured to tight tolerances for stable operation and reliable protection.",
       "reviews": [
@@ -884,7 +884,7 @@
       "id": 23,
       "name": "5A Electronic Glass Fuse",
       "category": "fuse",
-      "url": "../src/assets/normal/fuse/Midwest Fastener 5A MDL Glass Electronic Fuse.jpeg",
+      "url": "/normal/fuse/Midwest Fastener 5A MDL Glass Electronic Fuse.jpeg",
       "price": 1500,
       "description": "A 5A glass fuse designed for medium-current protection in consumer electronics and small appliances. Clear construction aids quick identification and straightforward replacement.",
       "reviews": [
@@ -924,7 +924,7 @@
       "id": 24,
       "name": "3 Pin Round Socket",
       "category": "socket",
-      "url": "../src/assets/normal/socket/3 Pin Round Socket.jpeg",
+      "url": "/normal/socket/3 Pin Round Socket.jpeg",
       "price": 2500,
       "description": "A durable 3-pin round socket ideal for mains-powered appliances and installations. Engineered for safe contact and secure connections in domestic and light-commercial setups.",
       "reviews": [
@@ -964,7 +964,7 @@
       "id": 25,
       "name": "2-Outlet USB Port Socket",
       "category": "socket",
-      "url": "../src/assets/normal/socket/Articles in the Home Category - SlipperyBrick_com.jpeg",
+      "url": "/normal/socket/Articles in the Home Category - SlipperyBrick_com.jpeg",
       "price": 3700,
       "description": "A wall socket combining two standard outlets with two USB ports for convenient device charging. Designed for modern living spaces where integrated charging reduces clutter.",
       "reviews": [
@@ -1004,7 +1004,7 @@
       "id": 26,
       "name": "2-in-1 Outlet Socket",
       "category": "socket",
-      "url": "../src/assets/normal/socket/Axiom Switched Socket 2 Gang Double Pole.jpeg",
+      "url": "/normal/socket/Axiom Switched Socket 2 Gang Double Pole.jpeg",
       "price": 4200,
       "description": "A 2-in-1 outlet socket featuring combined power and secondary socket functionality for flexible installations. Built for durability with a streamlined aesthetic suited to modern interiors.",
       "reviews": [
@@ -1044,7 +1044,7 @@
       "id": 27,
       "name": "13A Polished Chrome Socket",
       "category": "socket",
-      "url": "../src/assets/normal/socket/BG Screwless Flat Plate Polished Chrome 13A DP Switched Socket.jpeg",
+      "url": "/normal/socket/BG Screwless Flat Plate Polished Chrome 13A DP Switched Socket.jpeg",
       "price": 4000,
       "description": "A polished chrome 13A double-pole switched socket with a screwless flat plate for a premium finish. Designed to combine safety with a refined, contemporary appearance.",
       "reviews": [
@@ -1084,7 +1084,7 @@
       "id": 28,
       "name": "2-Outlet Universal Socket",
       "category": "socket",
-      "url": "../src/assets/normal/socket/Depoguye Weiße USB-Stecker-Wandsteckdosen, universelle 10-Loch-Steckdose, Steckdosen und Schalter,.jpeg",
+      "url": "/normal/socket/Depoguye Weiße USB-Stecker-Wandsteckdosen, universelle 10-Loch-Steckdose, Steckdosen und Schalter,.jpeg",
       "price": 4500,
       "description": "A universal 2-outlet socket accommodating multiple plug types, providing flexible compatibility for international appliances. Engineered for convenience in multi-use spaces and travel-ready environments.",
       "reviews": [
@@ -1124,7 +1124,7 @@
       "id": 29,
       "name": "1-Outlet Switch Socket",
       "category": "socket",
-      "url": "../src/assets/normal/socket/MK DP Switched Socket.jpeg",
+      "url": "/normal/socket/MK DP Switched Socket.jpeg",
       "price": 2000,
       "description": "A single-outlet switched socket with a discreet, functional design for everyday installations. Built for safe, reliable switching and compact footprint in small areas.",
       "reviews": [
@@ -1164,7 +1164,7 @@
       "id": 30,
       "name": "2-Outlet 2-USB Socket",
       "category": "socket",
-      "url": "../src/assets/normal/socket/Universal Double Wall Plug Socket 2 Gang 2 Usb Charger Port Outlets Plate 13a.jpeg",
+      "url": "/normal/socket/Universal Double Wall Plug Socket 2 Gang 2 Usb Charger Port Outlets Plate 13a.jpeg",
       "price": 3500,
       "description": "A dual-outlet wall socket combined with two USB charging ports for simultaneous device power and charging. Designed for modern residences where convenience and tidy cable management are priorities.",
       "reviews": [
@@ -1204,7 +1204,7 @@
       "id": 31,
       "name": "Grey Bronze Plug Sockets",
       "category": "socket",
-      "url": "../src/assets/normal/socket/Vogue Grey Bronze Plug Sockets (149B).jpeg",
+      "url": "/normal/socket/Vogue Grey Bronze Plug Sockets (149B).jpeg",
       "price": 3500,
       "description": "Grey-bronze plug sockets offering a refined metallic finish for modern interiors. Combines a decorative finish with secure electrical performance for visible installations.",
       "reviews": [
@@ -1244,7 +1244,7 @@
       "id": 32,
       "name": "Futuristic White Switch",
       "category": "switch",
-      "url": "../src/assets/normal/switch/c9ade6e7-c053-4fc3-adf3-1abde440cb6f.jpeg",
+      "url": "/normal/switch/c9ade6e7-c053-4fc3-adf3-1abde440cb6f.jpeg",
       "price": 3900,
       "description": "A minimalist white switch with a modern profile and responsive tactile feedback. Ideal for contemporary interiors seeking a clean, understated control element.",
       "reviews": [
@@ -1284,7 +1284,7 @@
       "id": 33,
       "name": "Classic Golden Switch",
       "category": "switch",
-      "url": "../src/assets/normal/switch/Classic Collection - The Wandsworth Group.jpeg",
+      "url": "/normal/switch/Classic Collection - The Wandsworth Group.jpeg",
       "price": 3000,
       "description": "A classic golden switch that adds a touch of traditional elegance to interiors. Built with dependable switching mechanics and a polished metallic finish for visible accent areas.",
       "reviews": [
@@ -1324,7 +1324,7 @@
       "id": 34,
       "name": "2-Way Classic White Switch",
       "category": "switch",
-      "url": "../src/assets/normal/switch/Click Mode 10A Switch 2 Gang 2 Way.jpeg",
+      "url": "/normal/switch/Click Mode 10A Switch 2 Gang 2 Way.jpeg",
       "price": 3200,
       "description": "A 2-way white switch offering dependable dual-location control with crisp, tactile switching. Designed for consistent performance in domestic and light commercial applications.",
       "reviews": [
@@ -1364,7 +1364,7 @@
       "id": 35,
       "name": "Square 2-Way Gray Switch",
       "category": "switch",
-      "url": "../src/assets/normal/switch/Gira E3.jpeg",
+      "url": "/normal/switch/Gira E3.jpeg",
       "price": 3800,
       "description": "A square-profile gray 2-way switch designed for a clean, modern look and reliable dual-location control. Suited to contemporary interiors where minimalist controls are desired.",
       "reviews": [
@@ -1404,7 +1404,7 @@
       "id": 36,
       "name": "2-Way 10A White Switch",
       "category": "switch",
-      "url": "../src/assets/normal/switch/Lieber Silk White 2 Gang 2 Way 10A Light Switch - Curved Edge.jpeg",
+      "url": "/normal/switch/Lieber Silk White 2 Gang 2 Way 10A Light Switch - Curved Edge.jpeg",
       "price": 3000,
       "description": "A 2-gang, 10A white switch with a silk-texture finish and curved edges for a refined look. Provides dependable 2-way control and a tactile user experience.",
       "reviews": [
@@ -1444,7 +1444,7 @@
       "id": 37,
       "name": "2-Way 10A Metallic Switch",
       "category": "switch",
-      "url": "../src/assets/normal/switch/LS02 Screw Plate 2 Gang Light Switch.jpeg",
+      "url": "/normal/switch/LS02 Screw Plate 2 Gang Light Switch.jpeg",
       "price": 3400,
       "description": "A metallic-finished 2-way switch with 10A rating, offering a contemporary metallic aesthetic and robust switching action. Ideal where a modern metallic accent is desired.",
       "reviews": [
@@ -1484,7 +1484,7 @@
       "id": 38,
       "name": "Square Classic Gray Switch",
       "category": "switch",
-      "url": "../src/assets/normal/switch/Mat zwart schakelaarsprogramma van Gira - wand-plafond - verbouwen - WONEN_nl.jpeg",
+      "url": "/normal/switch/Mat zwart schakelaarsprogramma van Gira - wand-plafond - verbouwen - WONEN_nl.jpeg",
       "price": 3300,
       "description": "A square-profile classic gray switch offering understated styling and consistent switching performance. Suited for modern interiors that prefer a neutral, durable control surface.",
       "reviews": [
@@ -1524,7 +1524,7 @@
       "id": 39,
       "name": "3-Way + Dimmer Black Switch",
       "category": "switch",
-      "url": "../src/assets/normal/switch/Soho Lighting Matt Black 4 Gang Dimmer and Rocker Switch Combo (1 x 2 -Way Intelligent Dimmer & 3 x 2-Way Switch).jpeg",
+      "url": "/normal/switch/Soho Lighting Matt Black 4 Gang Dimmer and Rocker Switch Combo (1 x 2 -Way Intelligent Dimmer & 3 x 2-Way Switch).jpeg",
       "price": 6500,
       "description": "A 3-way dimmer and switch combo in matt black finish providing precise lighting control and a premium aesthetic. Engineered for smooth dimming response and flexible multi-location control.",
       "reviews": [
@@ -1564,7 +1564,7 @@
       "id": 40,
       "name": "2-Way + Dimmer Gold Switch",
       "category": "switch",
-      "url": "../src/assets/normal/switch/Switch Parts.jpeg",
+      "url": "/normal/switch/Switch Parts.jpeg",
       "price": 6500,
       "description": "A gold-finish 2-way switch with integrated dimmer control, combining decorative metalwork with precise lighting adjustment. Ideal for feature rooms where control and visual appeal matter equally.",
       "reviews": [

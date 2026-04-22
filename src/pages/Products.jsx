@@ -4,8 +4,8 @@ import NavBar from '../components/NavBar'
 import { BiBulb, BiExtension, BiHeart, BiSearch } from 'react-icons/bi'
 import { IoCartOutline } from 'react-icons/io5'
 import { FaHeart } from 'react-icons/fa'
-import snowell from "/snowell-db/ele-db.json";
-import { BsBoxes, BsCurrencyExchange } from 'react-icons/bs'
+import snowell from "../../public/snowell-db/ele-db.json";
+import { BsBoxes } from 'react-icons/bs'
 import { GrFan } from 'react-icons/gr'
 import { TbCircuitResistor } from 'react-icons/tb'
 import { SiSocketdotio } from 'react-icons/si'
