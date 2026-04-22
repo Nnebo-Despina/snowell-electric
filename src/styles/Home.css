@@ -35,7 +35,7 @@
   height: 70vh;
   margin-top: 10vh; 
   position: relative;
-  background-image: url(../assets/normal/Grey\ UK\ 13A\ .jpeg);
+  background-image: url(/normal/Grey\ UK\ 13A\ .jpeg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -422,7 +422,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    background-image: url(../assets/normal/Intelligence\ -\ Mia\ Cucina.jpeg);
+    background-image: url(/normal/Intelligence\ -\ Mia\ Cucina.jpeg);
     background-size: cover;
     position: relative;
 }
@@ -432,7 +432,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    background-image: url(../assets/normal/Amelia\ Ceiling\ Fan.jpeg);
+    background-image: url(/normal/Amelia\ Ceiling\ Fan.jpeg);
     background-size: cover;
     position: relative;
 }
@@ -442,7 +442,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    background-image: url(../assets/normal/The\ ChoruSmart\ range_\ versatile\ home\ solutions\ for\ every\ need.jpeg);
+    background-image: url(/normal/The\ ChoruSmart\ range_\ versatile\ home\ solutions\ for\ every\ need.jpeg);
     background-size: cover;
     position: relative;
 }.s6-home-four-overlay{
@@ -451,7 +451,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    background-image: url(../assets/normal/6W\ B22\ Filament\ LED\ A60\ Round\ 2200K\ Opal\ Bulb\ Dimmable.jpeg);
+    background-image: url(/normal/6W\ B22\ Filament\ LED\ A60\ Round\ 2200K\ Opal\ Bulb\ Dimmable.jpeg);
     background-size: cover;
     position: relative;
 }

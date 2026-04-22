@@ -10,7 +10,7 @@
     padding-top: 10vh;
 }
 .s1-products-intro{
-    background-image: url('../assets/normal/Products.jpeg');
+    background-image: url('/normal/Products.jpeg');
     background-color: white;
     background-repeat: no-repeat;
     background-position: center;
