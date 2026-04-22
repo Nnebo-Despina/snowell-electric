@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import '../styles/NavBar.css'
-import Logo from "../assets/svg/logo.svg"
+import Logo from "/svg/logo.svg"
 import { Link } from 'react-router-dom'
 import { BiCart, BiHeart, BiMenu, BiSearch, BiUser } from 'react-icons/bi'
 import { FaHamburger } from 'react-icons/fa'
